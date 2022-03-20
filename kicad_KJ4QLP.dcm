@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP SN74LVC2G14DBV
+D Single Schmitt-Trigger Inverter, SOT-23
+K Inverter Schmitt Trigger
+F https://www.ti.com/lit/ds/symlink/sn74lvc2g14.pdf
+$ENDCMP
+#
+$CMP TCXO_B31
+D Connor-Winfield B31 is a 2.5 x 2.0mm, 3.3 V Clipped Sinewave, Surface Mount, Temperature Compensated Crystal Oscillator (TCXO)
+K tcxo
+F http://www.conwin.com/datasheets/tx/tx415.pdf
+$ENDCMP
+#
 #End Doc Library
